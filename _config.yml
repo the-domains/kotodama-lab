@@ -2,6 +2,7 @@ name: kotodama-lab
 favicon: null
 layout_spectrum: 0.2905724751763046
 typography_spectrum: 0.820600806735456
+title: Kotodama Lab
 cta:
   domain: null
   bucket: null
